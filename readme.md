@@ -1,4 +1,4 @@
-# playwright-test-cloud-grid
+# playwright-testing-lambdatest-grid
 
 ## Overview
 
